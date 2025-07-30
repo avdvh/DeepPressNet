@@ -7,6 +7,8 @@
 
 DeepPressNet is a deep learning pipeline that classifies Reddit posts as either "Depressed" or "Not Depressed" based on textual input. It leverages Sentence-BERT (SBERT) for embedding generation and a Multilayer Perceptron (MLP) neural network optimized using Optuna for classification.
 
+### Live Link: https://huggingface.co/spaces/avdvh/DeepPressNet
+
 ## Features
 
 - End-to-end NLP pipeline
