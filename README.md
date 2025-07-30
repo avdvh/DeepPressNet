@@ -1,4 +1,3 @@
-readme_text = """
 # DeepPressNet: Depression Detection from Text using SBERT + Neural Networks
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
