@@ -1,13 +1,10 @@
 # DeepPressNet: Depression Detection from Text using SBERT + Neural Networks
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Model](https://img.shields.io/badge/model-MLP-green)]()
-[![Built with](https://img.shields.io/badge/built%20with-TensorFlow-blue)]()
-[![Last Updated](https://img.shields.io/badge/last%20updated-July%202025-orange)]()
 
 DeepPressNet is a deep learning pipeline that classifies Reddit posts as either "Depressed" or "Not Depressed" based on textual input. It leverages Sentence-BERT (SBERT) for embedding generation and a Multilayer Perceptron (MLP) neural network optimized using Optuna for classification.
 
-### Live Link: https://huggingface.co/spaces/avdvh/DeepPressNet
+
+**Try It Live:** [Click Here](https://huggingface.co/spaces/avdvh/DeepPressNet)
 
 ## Features
 
